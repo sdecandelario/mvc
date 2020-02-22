@@ -27,7 +27,7 @@ h1{
 
 <?php
 
-	require_once("controlador/productos-controlador.php");
+require_once('controlador'.DIRECTORY_SEPARATOR.'productos-controlador.php');
 
 
 
